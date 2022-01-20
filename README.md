@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanheer
-- 👀 I’m interested in engineering
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning btech 1st year
 - 💞️ I’m looking to collaborate on ...
 
