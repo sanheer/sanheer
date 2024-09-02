@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanheer
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning btech 1st year
+- 🌱 I’m currently learning btech 4th year
 - 💞️ I’m looking to collaborate on ...
 
 
